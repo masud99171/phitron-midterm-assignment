@@ -33,7 +33,7 @@ class Student:
             f"ID: {self._studendid} | Name: {self.__name} | Department: {self.department} | Enrolled: {self.is_enrolled}")
 
 s0 = Student("101","ZulfiQar","Arabic")
-s1 = Student("101", "Rakib Bhai", "CSE")
+s1 = Student("100", "Rakib Bhai", "CSE")
 s2 = Student("102", "Hridoy Bhai", "EEE")
 s3 = Student("103", "Sohel Bhai", "BBA")
 s4 = Student("104", "Shaker", "Civil Engineering")
